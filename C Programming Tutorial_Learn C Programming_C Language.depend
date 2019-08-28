@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558284696 source:f:\onedrive\mygeneralworkstation\c programming tutorial_learn c programming_c language\helloworld.c
+	<stdio.h>
+	<stdlib.h>
+
+1558284385 source:f:\onedrive\mygeneralworkstation\c programming tutorial_learn c programming_c language\usageofif.c
+	<stdio.h>
+	<stdlib.h>
+
